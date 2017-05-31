@@ -4,3 +4,4 @@
 1rd commit on new branch
 2rd commit on new branch
 3rd commit on new branch after merge
+4rd commit on new branch after merge
